@@ -296,9 +296,9 @@ MIT License - Eres libre de usar, modificar y distribuir este software
 
 **Juan Jose Sanchez Aguirre**
 
-- 🌐 Portfolio: [tu-portfolio.com](https://josedeveloper96.github.io/portafolio.github.io/)
-- 💼 LinkedIn: [tu-linkedin](https://linkedin.com/in/tu-usuario)
-- 🐙 GitHub: [@tu-usuario](https://github.com/josedeveloper96)
+- 🌐 Portfolio: [portafolio juan jose](https://josedeveloper96.github.io/portafolio.github.io/)
+- 💼 LinkedIn: [juan jose sanchez aguirre](https://linkedin.com/in/tu-usuario)
+- 🐙 GitHub: [@josedeveloper96](https://github.com/josedeveloper96)
 - 📧 Email: juanzxable@gmail.com
 
 ---
